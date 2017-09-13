@@ -166,3 +166,4 @@ if False:
             print name, "=>", better_name
     data = process_map(OSMFILE, False)
 
+# Change False to True to run the script
